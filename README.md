@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SurrealDB**
 
-- 👯 I’m looking to collaborate on **collaborater**
+- 👯 I’m looking to **collaborater**
 
 - 👨‍💻 available at [https://www.linkedin.com/in/savita-rajput-b03187277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/savita-rajput-b03187277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
