@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siya Rajput</h1>
+<h1 align="center">Hii 👋, I'm Siya Rajput</h1>
 <h3 align="center">A passionate full stack developer from Indore (M.P)</h3>
 
 - 🔭 I’m currently working on **Byloop Technologies Pvt Ltd**
