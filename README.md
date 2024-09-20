@@ -5,12 +5,15 @@
 
 - 🌱 I’m currently learning **SurrealDB**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/savita-rajput-b03187277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/savita-rajput-b03187277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👯 I’m looking to collaborate on **collaborater**
+
+- 👨‍💻 available at [https://www.linkedin.com/in/savita-rajput-b03187277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/savita-rajput-b03187277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 💬 Ask me about **NodeJS,ExpressJS,React,SQL,MongoDB,HTML,Javascript,Java**
 
 - 📫 How to reach me **siyarajput5650@gmail.com**
 
+- ⚡ Fun fact **I think I am funny**
 
 
 <h3 align="left">Languages and Tools:</h3>
