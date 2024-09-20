@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siya Rajput</h1>
 <h3 align="center">A passionate full stack developer from Indore (M.P)</h3>
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fcartoon-smartphone-girl-global-communication-vector-10743220&psig=AOvVaw2r5vg_D7euDNrUVeFVXWV0&ust=1726922675584000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjt5rfG0YgDFQAAAAAdAAAAABAE"/>
+
 - 🔭 I’m currently working on **Byloop Technologies Pvt Ltd**
 
 - 🌱 I’m currently learning **SurrealDB**
